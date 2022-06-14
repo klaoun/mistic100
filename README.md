@@ -1,2 +1,2 @@
-![mistic100 GitHub stats](https://github-readme-stats.vercel.app/api?username=mistic100&show_icons=true&theme=github_dark&hide_border=true&bg_color=transparent)![mistic100 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistic100&hide=php,smarty,pawn&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=transparent)
-![mistic100 trophy](https://github-profile-trophy.vercel.app/?username=mistic100&column=7&row=1&margin-w=10&theme=darkhub&no-frame=true&no-bg=true)
+![mistic100 GitHub stats](https://github-readme-stats.vercel.app/api?username=mistic100&show_icons=true&theme=github_dark&hide_border=true)![mistic100 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistic100&hide=php,smarty,pawn&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
+![mistic100 trophy](https://github-profile-trophy.vercel.app/?username=mistic100&column=7&row=1&margin-w=10&theme=darkhub&no-frame=true)
